@@ -21,7 +21,7 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 | Mercedes G65 AMG  | A |
 | Mercedes Brabus G800  | A |
 | Audi SQ7 | O |
-| BMW X5M | A |
+| BMW X5M | A | 
 | Bmw x6 | O |
 | Ford Raptor | A |
 | Nissan Titan | A |
